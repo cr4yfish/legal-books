@@ -12,7 +12,7 @@ This project attempts to recreate famous books using AI-generated content based 
 legal-books/
 ├── books/
 │   └── [book-title]/
-│       ├── [chapter-number]/
+│       ├── [chapter]/
 │       │   ├── book/          # Generated book content
 │       │   └── prompts/       # Prompts used for generation
 │       │       └── [model]/   # Organized by AI model used
